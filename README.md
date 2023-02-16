@@ -1,1 +1,3 @@
-This is a Tic-Tac-Toe game.# Tic-Tac-Toe_react
+# Tic-Tac-Toe_react
+
+This is a Tic-Tac-Toe game.
